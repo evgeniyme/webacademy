@@ -12,7 +12,7 @@ Add data to redis\
 Docker inspect\
 ![6](./images/6.6.png)
 Reuse volume\
-![7](./images/6.7.png)
+![7](./images/6.7.png)\
 Linking two docker containers\
 ![8](./images/6.8.png)
 
