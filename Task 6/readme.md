@@ -1,7 +1,7 @@
 **Task 6**
 6.0
 Running docker build with Redis
-![1](./images.6.1.png)
+![1](./images/6.1.png)
 Running docker with limits
 ![enter image description here](6.2)
 ![enter image description here](6.3)
